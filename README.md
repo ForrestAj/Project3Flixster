@@ -34,7 +34,9 @@ https://screenrec.com/share/IY30fbWqtd
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+* Figuring out how to call on the API when doing the code
+* Parsing the JSON in order to be able to connect everything
+* Utilizing the right functions to make sure everything was called on correctly.
 
 ## License
 
